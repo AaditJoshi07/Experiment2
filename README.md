@@ -60,4 +60,8 @@ To study and implement basic operations on Python data structures—specifically
 
 -->Sort the marks in ascending order using sort().
 
+**CONCLUSION:-**
+
+All the experiments together show that Python provides simple yet powerful ways to handle data—whether through variables, arithmetic, user input, or lists—and supports operations like updating, sorting, and analyzing values, making it an essential tool for both logical problem‑solving and practical applications. In short, these exercises built a strong foundation in Python’s core concepts and data handling techniques.
+
 ##
