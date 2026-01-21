@@ -1,3 +1,7 @@
+**USE OF BASIC OPERATIONS IN PHYTON**
+
+##
+
 **Aim:-**
 
 To study and implement basic operations on Python data structures—specifically lists—such as creation, indexing, updating, appending, inserting, removing, extending, slicing, and sorting, along with practical applications like managing student names and marks.
