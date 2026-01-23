@@ -6,6 +6,8 @@
 
 To study and implement basic operations on Python data structures—specifically lists—such as creation, indexing, updating, appending, inserting, removing, extending, slicing, and sorting, along with practical applications like managing student names and marks.
 
+##
+
 **THEORY:-**
 
 * Lists in Python are ordered, mutable collections that can store elements of any data type.
@@ -28,11 +30,7 @@ To study and implement basic operations on Python data structures—specifically
 
 * Sorting arranges elements in ascending order using sort().
 
-* Length of a list is found using len(), useful for counting elements.
-
-* Mathematical operations like max(), min(), sum() help analyze numerical lists.
-
-* Average calculation is done by dividing sum(list) by len(list).
+##
 
 **ALGORITHM:-**
 
@@ -59,6 +57,8 @@ To study and implement basic operations on Python data structures—specifically
 -->Compute the average by dividing total by count.
 
 -->Sort the marks in ascending order using sort().
+
+##
 
 **CONCLUSION:-**
 
